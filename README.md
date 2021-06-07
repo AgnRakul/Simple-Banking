@@ -9,6 +9,12 @@
   password is setted for each account Owner. 
   Currently Added Two Bank Account to Check the Transfer Features From one account to next Account 
   --------------------------------------------------------------------------------------------------
+  #Features Updates 
+     Planning to Connect With Database 
+     Creating a New Account Features 
+     Manual Logout Function 
+  
+  
   # Account Detials
       ACCOUNT 1 
       Username : r
