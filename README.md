@@ -8,8 +8,8 @@
   The username and passwords Which is taken By the Account Owner Name for Example If the Account Owner Name is Mathew then the username is "m" and password is 1111
   password is setted for each account Owner. 
   Currently Added Two Bank Account to Check the Transfer Features From one account to next Account 
-  --------------------------------------------------------------------------------------------------
-  #Features Updates 
+
+# Features Updates 
      Planning to Connect With Database 
      Creating a New Account Features 
      Manual Logout Function 
