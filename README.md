@@ -7,4 +7,8 @@
   # Account Detials
       ACCOUNT 1 
       Username : r
-      pin : 1111
+      password : 1111
+      
+      Account 2
+      Userame: s
+      Password: 2222
